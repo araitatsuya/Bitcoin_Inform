@@ -4,7 +4,7 @@ My old python project.
 It is not very clean.
 
 I had two bitcoin exchange accounts, Coinbase and CoinMX. 
-Somehow, BTC@CoinMX was usually more expensive than BTC@Coinbase. It was also more volatile.
+BTC@CoinMX was usually more expensive than BTC@Coinbase. It was also more volatile.
 I was playing arbitarage back in 2015. 
 I think the python code also calculates MACD and RSI
 
