@@ -1,6 +1,7 @@
 # Bitcoin_Inform
 
 My old python project. 
+It is not very clean.
 
 I had two bitcoin exchange accounts, Coinbase and CoinMX. 
 Somehow, BTC@CoinMX was usually more expensive than BTC@Coinbase. It was also more volatile.
